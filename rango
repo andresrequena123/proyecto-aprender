@@ -1,0 +1,8 @@
+r= list(range(1,30))
+print (r)
+
+x= (1,2,3)
+print (type(x))
+
+r= (list(range(0,81)))
+print (r)
